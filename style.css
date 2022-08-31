@@ -1,0 +1,16 @@
+#ob{
+    background-color: orange;
+    color: white;
+    font-size: 30px;
+}
+
+#status,#number_of_objects
+{
+font-size: 18px;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 30px;
+}
